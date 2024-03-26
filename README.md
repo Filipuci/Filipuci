@@ -2,7 +2,6 @@
 
 - 📖 Estudando Front end
 - 💬 Contate-me no email: rafaellifipuci@outlook.com
-- 🪶 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/Filipuci">
