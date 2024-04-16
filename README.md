@@ -1,6 +1,6 @@
 ### hello world! Eu sou Rafael Filipuci
 
-- 📖 Estudando Front end
+- 📖 Estudando JavaScript
 - 💬 Contate-me no email: rafaellifipuci@outlook.com
 
 <div>
