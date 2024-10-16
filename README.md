@@ -1,7 +1,7 @@
 ### hello world! Eu sou Rafael Filipuci
 
-- 📖 Estudando Front-end
-  Estou estudando para me tornar um desenvolvedor FULLSTACK.
+- 📖 Estudando Front-end  
+  Estou estudando para me tornar um desenvolvedor FULLSTACK.  
   Atualmente estudando typescript
   
 - 💬 Contate-me no email: rafaellifipuci@outlook.com
