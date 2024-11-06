@@ -2,7 +2,7 @@
 
 - 📖 Estudando Front-end  
   Estou estudando para me tornar um desenvolvedor FULLSTACK.  
-  Atualmente estudando tailwindCSS
+  Atualmente estudando React
   
 - 💬 Contate-me no email: rafaellifipuci@outlook.com
 
