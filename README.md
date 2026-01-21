@@ -1,10 +1,16 @@
-### hello world! Eu sou Rafael Filipuci
+## hello world! 👋 Eu sou Rafael Filipuci
 
-No que estou trabalhando atualmente? 
+💻 **Front-end Developer em formação**
 
-Estou realizando estudos sobre react para me especializar em front end
-Pretendo retomar a construção dos projetos de portfólio e atualizar os meus repositórios aqui em breve.
-Minhas principais habilidades tech são: HTML, CSS, Javascript, Typescript e React
+---
+
+### 📚 No que estou trabalhando atualmente?
+
+> Estou estudando **React** para me especializar em **Front-end**.<br>
+> Pretendo retomar a construção dos projetos de portfólio<br>
+> e atualizar meus repositórios em breve.<br>
+> <br>
+> **Tech stack:** HTML, CSS, JavaScript, TypeScript, React
 
 
   
