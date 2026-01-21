@@ -1,8 +1,12 @@
 ### hello world! Eu sou Rafael Filipuci
 
-- 📖 Estudando Front-end  
-  Estou estudando para me tornar um desenvolvedor FULLSTACK.  
-  Atualmente estudando React
+No que estou trabalhando atualmente? 
+
+Estou realizando estudos sobre react para me especializar em front end
+Pretendo retomar a construção dos projetos de portfólio e atualizar os meus repositórios aqui em breve.
+Minhas principais habilidades tech são: HTML, CSS, Javascript, Typescript e React
+
+
   
 - 💬 Contate-me no email: rafaellifipuci@outlook.com
 
