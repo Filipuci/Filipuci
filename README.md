@@ -6,22 +6,20 @@
 
 ### 📚 No que estou trabalhando atualmente?
 
-> Estou estudando **React** para me especializar em **Front-end**.<br>
-> Pretendo retomar a construção dos projetos de portfólio<br>
-> e atualizar meus repositórios em breve.<br>
-> <br>
+> Atualmente focado em evoluir em **React** e **TypeScript**,  
+> construindo projetos de portfólio e aprimorando minhas habilidades  
+> em desenvolvimento Front-end. <br>
 > **Tech stack:** HTML, CSS, TailwindCSS, JavaScript, TypeScript, React
 
 
-  
 - 💬 Contate-me no email: rafaellifipuci@outlook.com
+</br>
 
 
 <div>
-  <a href="https://github.com/Filipuci"> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipuci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipuci&layout=compact&langs_count=16&theme=dark"/>
-
+</div>
 
   ## Linguagens e tecnologias
   <div style="display: inline_block"><br>
