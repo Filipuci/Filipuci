@@ -10,7 +10,7 @@
 > Pretendo retomar a construção dos projetos de portfólio<br>
 > e atualizar meus repositórios em breve.<br>
 > <br>
-> **Tech stack:** HTML, CSS, JavaScript, TypeScript, React
+> **Tech stack:** HTML, CSS, TailwindCSS, JavaScript, TypeScript, React
 
 
   
