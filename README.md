@@ -32,6 +32,6 @@
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </div>
+  </div>  <br>
   
-  ##
+  <img src="https://i.pinimg.com/originals/a5/b4/47/a5b4479a0d51a6aaa2f8d3cb7a0da80f.gif" width="80" />
