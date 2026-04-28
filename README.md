@@ -1,6 +1,6 @@
-## hello world! 👋 Eu sou Rafael Filipuci
+## hello world!  Eu sou Rafael Filipuci
 
-💻 **Front-end Developer**
+💻 **Desenvolvedor Front end**
 
 ---
 
