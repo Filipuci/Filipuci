@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Rafael%20Filipuci&textBg=false&fontColor=ffffff&reversal=false&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=000000&text=Rafael%20Filipuci&textBg=false&fontColor=ffffff&reversal=false&desc=Desenvolvedor%20Front-end&animation=fadeIn&descAlignY=70&descAlign=50&descSize=26">
 
 Desenvolvedor Front-end focado na construção de aplicações modernas e escaláveis utilizando **React**, **TypeScript** e **JavaScript**.
 
