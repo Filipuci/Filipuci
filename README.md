@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=280&color=000000&text=Rafael%20Filipuci&textBg=false&fontColor=ffffff&reversal=false&desc=Não%20precisava%20ser%20programação.%20Mas%20eu%20escolhi%20programação.&animation=fadeIn&descAlignY=70&descAlign=50&descSize=18&fontSize=50">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=000000&text=Rafael%20Filipuci&textBg=false&fontColor=ffffff&reversal=false&desc=Não%20precisava%20ser%20programação.%20Mas%20eu%20escolhi%20programação.&animation=fadeIn&descAlignY=75&descAlign=50&descSize=17&fontSize=40">
 
 </div>
 
@@ -8,43 +8,23 @@
 
 <div align="center">
 
-Desenvolvedor Front-end focado em React e TypeScript.
-Me preocupo com código que outras pessoas consigam ler e dar manutenção, não só código que funciona.
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Sobre mim
-
-Comecei querendo criar jogos. Acabei me apaixonando por front-end — tinha algo de mágico em ver uma div virar um elemento na tela.
-
-Logo percebi que dava pra ir além. Automatizar tarefas no trabalho, criar ferramentas pra resolver problemas do dia a dia. Pequenas coisas que funcionavam e faziam diferença pra quem usava.
-
-Hoje construo interfaces com React e TypeScript, com foco em componentização, acessibilidade e código bem estruturado.
-
-<br/>
-
----
-
-<br/>
-
-## Stack
-
 <div align="center">
-
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat&logo=vite&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-000000?style=flat&logo=zod&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-000000?style=flat&logo=reacthookform&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-000000?style=flat&logo=reactquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS"/>
+&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite"/>
+&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+&nbsp;
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+</div>
 
 </div>
 
@@ -66,31 +46,13 @@ Hoje construo interfaces com React e TypeScript, com foco em componentização, 
 
 ---
 
-<br/>
-
-## Portfólio
-
-<div align="center">
-
-Projetos, trajetória e contato em:
-
-### [rafael-filipuci.vercel.app](https://rafael-filipuci.vercel.app)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-filipuci/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:rafaellifipuci@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://rafael-filipuci.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-filipuci/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaellifipuci@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-filipuci.vercel.app)
 
 </div>
 
