@@ -1,4 +1,4 @@
-# Rafael Filipuci
+<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=000000&text=Rafael%20Filipuci&textBg=false&fontColor=ffffff&reversal=false&animation=fadeIn">
 
 Desenvolvedor Front-end focado na construção de aplicações modernas e escaláveis utilizando **React**, **TypeScript** e **JavaScript**.
 
